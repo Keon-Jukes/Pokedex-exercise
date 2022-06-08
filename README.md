@@ -1,6 +1,6 @@
 # Pokedex Project
 
-This project was created for Colt Steele's React course on Udemy
+This project was created for Colt Steele's React Masterclass course on Udemy
 
 ## Available Scripts
 
